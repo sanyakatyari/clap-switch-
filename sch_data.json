@@ -1,0 +1,115 @@
+[
+    {
+        "sheet_name": "Main Sheet",
+        "sheet_path": "C:/Users/Lenovo/Desktop/clap switch/clap switch.kicad_sch",
+        "paper": {
+            "paper_height": 210,
+            "paper_width": 297
+        },
+        "symbols": [
+            {
+                "reference": "D1",
+                "x_position": 214.63,
+                "y_position": 95.25,
+                "rotation": 90
+            },
+            {
+                "reference": "R2",
+                "x_position": 130.81,
+                "y_position": 64.77,
+                "rotation": 0
+            },
+            {
+                "reference": "R1",
+                "x_position": 110.49,
+                "y_position": 96.52,
+                "rotation": 0
+            },
+            {
+                "reference": "C3",
+                "x_position": 189.23,
+                "y_position": 63.5,
+                "rotation": 0
+            },
+            {
+                "reference": "B1",
+                "x_position": 229.87,
+                "y_position": 87.63,
+                "rotation": 0
+            },
+            {
+                "reference": "R3",
+                "x_position": 149.86,
+                "y_position": 64.77,
+                "rotation": 0
+            },
+            {
+                "reference": "C2",
+                "x_position": 175.26,
+                "y_position": 81.28,
+                "rotation": 90
+            },
+            {
+                "reference": "R4",
+                "x_position": 166.37,
+                "y_position": 64.77,
+                "rotation": 0
+            },
+            {
+                "reference": "Q1",
+                "x_position": 128.27,
+                "y_position": 90.17,
+                "rotation": 0
+            },
+            {
+                "reference": "R5",
+                "x_position": 214.63,
+                "y_position": 82.55,
+                "rotation": 0
+            },
+            {
+                "reference": "Q2",
+                "x_position": 147.32,
+                "y_position": 83.82,
+                "rotation": 0
+            },
+            {
+                "reference": "U1",
+                "x_position": 194.31,
+                "y_position": 76.2,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR02",
+                "x_position": 191.77,
+                "y_position": 55.88,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR01",
+                "x_position": 194.31,
+                "y_position": 107.95,
+                "rotation": 0
+            },
+            {
+                "reference": "#FLG01",
+                "x_position": 196.85,
+                "y_position": 57.15,
+                "rotation": 0
+            },
+            {
+                "reference": "C1",
+                "x_position": 166.37,
+                "y_position": 99.06,
+                "rotation": 0
+            },
+            {
+                "reference": "MK1",
+                "x_position": 110.49,
+                "y_position": 64.77,
+                "rotation": 0
+            }
+        ],
+        "sheet_files": []
+    }
+]
